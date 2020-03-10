@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/TheBigSteph/restaurant-pages/issues"
   },
-  "homepage": "https://github.com/TheBigSteph/restaurant-pages#readme"
+  "homepage": "https://github.com/TheBigSteph/restaurant-pages#readme",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
 }
