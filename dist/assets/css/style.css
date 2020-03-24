@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: "Open Sans";
+    background: #2c3e50;
+    color: #ecf0f1;
+    line-height: 1.618em;
+    text-align: center;
+  }
+
+  li {
+    background: #8b0000b8;
+    width: 50%;
+    margin: auto;
+    list-style-type: none;
+}
+
+.nav-bar {
+  margin: 20px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+  
